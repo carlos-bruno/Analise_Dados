@@ -1,4 +1,4 @@
 Tratamento Dataset Iris
 
-Neste codigo é feito a exploração dos dados de um dataset da biblioteca scikit-learn, onde o mesmo é transformado em um Dataframe com  as informações mais organizadas. Foi feita a nomeação de cada passo no tratamento e colocado comentarios de acordo com o que foi realizado nos comandos.
+Neste código, realizamos a exploração dos dados de um dataset da biblioteca scikit-learn, utilizando o pandas e transformando-o em um Dataframe com informações mais organizadas. Cada etapa do tratamento foi devidamente nomeada, e foram adicionados comentários explicativos para descrever o que foi realizado em cada comando.
 
